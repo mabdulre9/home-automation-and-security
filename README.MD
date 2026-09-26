@@ -12,7 +12,7 @@ A simulated home safety and automation architecture built with Arduino and Prote
 * **Intrusion Detection:** PIR motion tracking armed post-entry timeout; triggers visual alerts on OLED and warning LEDs.
 * **Real-Time Telemetry:** I2C OLED (128x64) provides live monitoring of temperature, sensor states, and keypad inputs.
 
-## Hardware & Software Stack
+## Software Stack
 
 | Category | Components |
 | :--- | :--- |

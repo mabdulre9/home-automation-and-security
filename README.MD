@@ -4,7 +4,7 @@ A simulated home safety and automation architecture built with Arduino and Prote
 
 ![System Schematic](/arduino-home-automation.png)
 
-## Core Features
+## Features
 
 * **Access Control:** 4x3 matrix keypad authentication with configurable PIN (Default: `1234`).
 * **Fire Emergency Protocol:** Flame detection overrides security, automatically opening all doors and windows to facilitate evacuation.

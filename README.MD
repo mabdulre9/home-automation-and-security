@@ -2,7 +2,7 @@
 
 A simulated home safety and automation architecture built with Arduino and Proteus. The system integrates multi-sensor hazard detection (fire, gas, intrusion) with automated physical responses (door/window actuation) and secure keypad access control.
 
-![System Schematic](./assets/arduino-home-automation.png)
+![System Schematic](/arduino-home-automation.png)
 
 ## Core Features
 
